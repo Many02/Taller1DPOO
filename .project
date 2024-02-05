@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>datos/aTodoGas.gas</name>
-			<type>1</type>
-			<location>C:/Users/Many-002/Downloads/aTodoGas.gas</location>
-		</link>
-	</linkedResources>
 </projectDescription>
